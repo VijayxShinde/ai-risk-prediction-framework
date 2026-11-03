@@ -1,0 +1,12 @@
+[BENCHMARK] RiskNLPEngine Performance Report
+==========================================
+Batch Size: 50 comments
+Total Time: 0.01 seconds
+Per-Comment Average: 0.1 ms
+Model Load Time: 245 ms
+Status: PASS (meets <2s and <40ms/comment targets)
+Logging Verification:
+- Log file: logs/nlp_audit.log (OK)
+- Log entries: 906 total
+- Format compliance: PASS
+- Required entries: PASS

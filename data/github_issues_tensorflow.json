@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "source": "github-html-scrape",
+    "repo": "tensorflow/tensorflow",
+    "num_issues": 50,
+    "query_terms": [
+      "in:title blocked",
+      "in:title blocking",
+      "in:title stuck",
+      "in:title \"cannot proceed\"",
+      "in:title \"waiting for\"",
+      "in:title \"depends on\"",
+      "in:title dependency",
+      "in:title bandwidth",
+      "in:title capacity",
+      "in:title headcount",
+      "in:title deadline",
+      "in:title due",
+      "in:title ETA",
+      "in:title \"target date\"",
+      "in:title vendor",
+      "in:title \"third-party\"",
+      "in:title regulatory"
+    ],
+    "note": "Titles were selected using in:title so entity keyword detection can be validated offline."
+  },
+  "issues": [
+    {
+      "text": "Checkpoint Restore blocked by changed default bias variable name",
+      "issue_id": 2768,
+      "issue_title": "Checkpoint Restore blocked by changed default bias variable name",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/2768"
+    },
+    {
+      "text": "Mac nightlies blocked by failing test in contrib",
+      "issue_id": 9903,
+      "issue_title": "Mac nightlies blocked by failing test in contrib",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/9903"
+    },
+    {
+      "text": "Feature request: non-blocking enqueue operations",
+      "issue_id": 12054,
+      "issue_title": "Feature request: non-blocking enqueue operations",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/12054"
+    },
+    {
+      "text": "Distributed tensorflow - Stuck at \"CreateSession still waiting for response from worker\"",
+      "issue_id": 12745,
+      "issue_title": "Distributed tensorflow - Stuck at \"CreateSession still waiting for response from worker\"",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/12745"
+    },
+    {
+      "text": "Blocking of tf.contrib.StagingArea get() and put() operations",
+      "issue_id": 12980,
+      "issue_title": "Blocking of tf.contrib.StagingArea get() and put() operations",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/12980"
+    },
+    {
+      "text": "Distributed TF hangs because of \"CreateSession still waiting for response from worker....\"",
+      "issue_id": 14662,
+      "issue_title": "Distributed TF hangs because of \"CreateSession still waiting for response from worker....\"",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/14662"
+    },
+    {
+      "text": "process blocked in session.run",
+      "issue_id": 16209,
+      "issue_title": "process blocked in session.run",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/16209"
+    },
+    {
+      "text": "TensorBoard Projector has been blocked by CORS policy: No 'Access-Control-Allow-Origin'",
+      "issue_id": 16770,
+      "issue_title": "TensorBoard Projector has been blocked by CORS policy: No 'Access-Control-Allow-Origin'",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/16770"
+    },
+    {
+      "text": "Log \"Waiting for new checkpoint at\" in tf.contrib.training.evaluate_repeatedly only after the checkpoint is found",
+      "issue_id": 17182,
+      "issue_title": "Log \"Waiting for new checkpoint at\" in tf.contrib.training.evaluate_repeatedly only after the checkpoint is found",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/17182"
+    },
+    {
+      "text": "Getting Redeclaration Error of \"error: redeclaration of 'P_ALL' P_ALL, /* Wait for any child. */\" while cross compiling for raspberry pi 3",
+      "issue_id": 17211,
+      "issue_title": "Getting Redeclaration Error of \"error: redeclaration of 'P_ALL' P_ALL, /* Wait for any child. */\" while cross compiling for raspberry pi 3",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/17211"
+    },
+    {
+      "text": "CreateSession still waiting for response from worker: /job:ps/replica:0/task:0",
+      "issue_id": 19907,
+      "issue_title": "CreateSession still waiting for response from worker: /job:ps/replica:0/task:0",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/19907"
+    },
+    {
+      "text": "tf.test.is_gpu_available() blocking indefinitely, using 100% CPU",
+      "issue_id": 22730,
+      "issue_title": "tf.test.is_gpu_available() blocking indefinitely, using 100% CPU",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/22730"
+    },
+    {
+      "text": "[CI] Ubuntu CC is still \"Expected \u2014 Waiting for status to be reported\" after 14 days.",
+      "issue_id": 27916,
+      "issue_title": "[CI] Ubuntu CC is still \"Expected \u2014 Waiting for status to be reported\" after 14 days.",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/27916"
+    },
+    {
+      "text": "Distributed training not working properly: Waiting for model to be ready. Ready_for_local_init_op: Variables not initialized: global_step",
+      "issue_id": 32081,
+      "issue_title": "Distributed training not working properly: Waiting for model to be ready. Ready_for_local_init_op: Variables not initialized: global_step",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/32081"
+    },
+    {
+      "text": "Chief-worker should waitting for all other workers.",
+      "issue_id": 32549,
+      "issue_title": "Chief-worker should waitting for all other workers.",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/32549"
+    },
+    {
+      "text": "tf.test.is_gpu_available() and tf.Session() blocking indefinitely",
+      "issue_id": 32580,
+      "issue_title": "tf.test.is_gpu_available() and tf.Session() blocking indefinitely",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/32580"
+    },
+    {
+      "text": "[CI] Ubuntu CPU is still \"Expected \u2014 Waiting for status to be reported\" after 14 days.",
+      "issue_id": 36527,
+      "issue_title": "[CI] Ubuntu CPU is still \"Expected \u2014 Waiting for status to be reported\" after 14 days.",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/36527"
+    },
+    {
+      "text": "Tensorflow is blocking CUDAmemcpyAsyn, and high CPU usage",
+      "issue_id": 40384,
+      "issue_title": "Tensorflow is blocking CUDAmemcpyAsyn, and high CPU usage",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/40384"
+    },
+    {
+      "text": "Keras does not wait for multiprocessing pool to finish",
+      "issue_id": 40544,
+      "issue_title": "Keras does not wait for multiprocessing pool to finish",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/40544"
+    },
+    {
+      "text": "build failed with build_all_android.sh as \"make: *** No rule to make target '/tensorflow/contrib/makefile/downloads/eigen/unsupported/Eigen/CXX1', needed by '/home/jason/workspace/algo/tf/tensorflow/tensorflow/contrib/makefile/gen/obj/android_armeabi-v7a/tensorflow/core/kernels/cast_op_impl_bool.o'. Stop. make: *** Waiting for unfinished jobs....",
+      "issue_id": 40661,
+      "issue_title": "build failed with build_all_android.sh as \"make: *** No rule to make target '/tensorflow/contrib/makefile/downloads/eigen/unsupported/Eigen/CXX1', needed by '/home/jason/workspace/algo/tf/tensorflow/tensorflow/contrib/makefile/gen/obj/android_armeabi-v7a/tensorflow/core/kernels/cast_op_impl_bool.o'. Stop. make: *** Waiting for unfinished jobs....",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/40661"
+    },
+    {
+      "text": "Bug reported: Tensorflow GPU version(Cuda) may cause thread blocking when calling scripts across languages. C#.",
+      "issue_id": 46952,
+      "issue_title": "Bug reported: Tensorflow GPU version(Cuda) may cause thread blocking when calling scripts across languages. C#.",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/46952"
+    },
+    {
+      "text": "Unable to install Tensorflow due to one of the file named \"getObjectTorrentRequest.h\" file , Torrent named file are blocked in various system across organisations.",
+      "issue_id": 47883,
+      "issue_title": "Unable to install Tensorflow due to one of the file named \"getObjectTorrentRequest.h\" file , Torrent named file are blocked in various system across organisations.",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/47883"
+    },
+    {
+      "text": "Backpropagation operators get blocked by NCCL operators when TF Profiler is enabled",
+      "issue_id": 50214,
+      "issue_title": "Backpropagation operators get blocked by NCCL operators when TF Profiler is enabled",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/50214"
+    },
+    {
+      "text": "Blocking on webgl for first initialization",
+      "issue_id": 50460,
+      "issue_title": "Blocking on webgl for first initialization",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/50460"
+    },
+    {
+      "text": "training stuck in first epoch at random batch # while using rmsprop as optimizer",
+      "issue_id": 53174,
+      "issue_title": "training stuck in first epoch at random batch # while using rmsprop as optimizer",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/53174"
+    },
+    {
+      "text": "tf.nn.ctc_loss behaviour changes depending on whether dense or sparse labels are provided",
+      "issue_id": 55328,
+      "issue_title": "tf.nn.ctc_loss behaviour changes depending on whether dense or sparse labels are provided",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/55328"
+    },
+    {
+      "text": "X86_64 - TFLite different inference results depending on whether it was compiled with XNNpack delegate or not",
+      "issue_id": 55448,
+      "issue_title": "X86_64 - TFLite different inference results depending on whether it was compiled with XNNpack delegate or not",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/55448"
+    },
+    {
+      "text": "Build TF wheel in another project which depends on TF",
+      "issue_id": 55505,
+      "issue_title": "Build TF wheel in another project which depends on TF",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/55505"
+    },
+    {
+      "text": "Gets stuck in tensorflow.test.is_gpu_available()",
+      "issue_id": 56282,
+      "issue_title": "Gets stuck in tensorflow.test.is_gpu_available()",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/56282"
+    },
+    {
+      "text": "Tensorflow randomly changes the order of the input tensors depending on their names",
+      "issue_id": 56985,
+      "issue_title": "Tensorflow randomly changes the order of the input tensors depending on their names",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/56985"
+    },
+    {
+      "text": "tf.distribute.MultiWorkerMirroredStrategy getting stuck",
+      "issue_id": 57372,
+      "issue_title": "tf.distribute.MultiWorkerMirroredStrategy getting stuck",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/57372"
+    },
+    {
+      "text": "GPU memory usage depends on data size",
+      "issue_id": 57623,
+      "issue_title": "GPU memory usage depends on data size",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/57623"
+    },
+    {
+      "text": "TensorFlow 2.12.0 depends on an older Numpy version than TensorFlow 2.11 does",
+      "issue_id": 60216,
+      "issue_title": "TensorFlow 2.12.0 depends on an older Numpy version than TensorFlow 2.11 does",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/60216"
+    },
+    {
+      "text": "multiprocessing stuck after usage of tensorflow functionality",
+      "issue_id": 60741,
+      "issue_title": "multiprocessing stuck after usage of tensorflow functionality",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/60741"
+    },
+    {
+      "text": "Configure script automatically selects CUDA/cuDNN path instead of waiting for user input",
+      "issue_id": 60760,
+      "issue_title": "Configure script automatically selects CUDA/cuDNN path instead of waiting for user input",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/60760"
+    },
+    {
+      "text": "TFRecordWriter stuck (or very slow) while serializing data, depending on feature transformation type",
+      "issue_id": 62087,
+      "issue_title": "TFRecordWriter stuck (or very slow) while serializing data, depending on feature transformation type",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/62087"
+    },
+    {
+      "text": "Keras.fit stuck/error in TensorFlow 2.13/2.14 (TPU is fine, inference on GPU is fine, 2.11 GPU is fine)",
+      "issue_id": 62234,
+      "issue_title": "Keras.fit stuck/error in TensorFlow 2.13/2.14 (TPU is fine, inference on GPU is fine, 2.11 GPU is fine)",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/62234"
+    },
+    {
+      "text": "During trainning model with gpu, randomly stucked and got windows bluescreen crash",
+      "issue_id": 62633,
+      "issue_title": "During trainning model with gpu, randomly stucked and got windows bluescreen crash",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/62633"
+    },
+    {
+      "text": "Building stuck at \"Linking tensorflow/libtensorflow_cc.so.2.16.0\" with \"--compilation_mode=dbg\"",
+      "issue_id": 62871,
+      "issue_title": "Building stuck at \"Linking tensorflow/libtensorflow_cc.so.2.16.0\" with \"--compilation_mode=dbg\"",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/62871"
+    },
+    {
+      "text": "stuck at installing tensorflow",
+      "issue_id": 67067,
+      "issue_title": "stuck at installing tensorflow",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/67067"
+    },
+    {
+      "text": "epoch is getting stuck",
+      "issue_id": 71654,
+      "issue_title": "epoch is getting stuck",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/71654"
+    },
+    {
+      "text": "MirroredStrategy() getting stuck at optimizer level when calling apply_gradients with tf2.16.2",
+      "issue_id": 72686,
+      "issue_title": "MirroredStrategy() getting stuck at optimizer level when calling apply_gradients with tf2.16.2",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/72686"
+    },
+    {
+      "text": "tf-nightly[and-cuda] depends on archived version of nvidia-cudnn-cu12==8.9.7.29",
+      "issue_id": 75785,
+      "issue_title": "tf-nightly[and-cuda] depends on archived version of nvidia-cudnn-cu12==8.9.7.29",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/75785"
+    },
+    {
+      "text": "Program gets stuck every time I try to use the GPU",
+      "issue_id": 75987,
+      "issue_title": "Program gets stuck every time I try to use the GPU",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/75987"
+    },
+    {
+      "text": "tf.linalg.solve behaves inconsistently on GPU for singular matrices depending on shape",
+      "issue_id": 94657,
+      "issue_title": "tf.linalg.solve behaves inconsistently on GPU for singular matrices depending on shape",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/94657"
+    },
+    {
+      "text": "CUDA-enabled build of v2.19.0 fails on ARM: analysis of target failed: tf2xla/ops:_xla_ops.so_check_deps: tensorflow/core:stream_executor_headers_lib cannot depend on tensorflow/core:lib",
+      "issue_id": 96427,
+      "issue_title": "CUDA-enabled build of v2.19.0 fails on ARM: analysis of target failed: tf2xla/ops:_xla_ops.so_check_deps: tensorflow/core:stream_executor_headers_lib cannot depend on tensorflow/core:lib",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/96427"
+    },
+    {
+      "text": "Arch Linux x86 RTX 3050 source compilation Error in fail: tensorflow/core:stream_executor_headers_lib cannot depend on tensorflow/core:lib",
+      "issue_id": 96445,
+      "issue_title": "Arch Linux x86 RTX 3050 source compilation Error in fail: tensorflow/core:stream_executor_headers_lib cannot depend on tensorflow/core:lib",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/96445"
+    },
+    {
+      "text": "v2.20 : erreur [mutex.cc : 452] RAW: Lock blocking",
+      "issue_id": 99464,
+      "issue_title": "v2.20 : erreur [mutex.cc : 452] RAW: Lock blocking",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/99464"
+    },
+    {
+      "text": "Update curl dependency to 8.16.0+ to address CVE-2025-0725 and CVE-2025-9086",
+      "issue_id": 104946,
+      "issue_title": "Update curl dependency to 8.16.0+ to address CVE-2025-0725 and CVE-2025-9086",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/104946"
+    },
+    {
+      "text": "tflite v2.20.0: poor performance of Dense layer depending on number of units",
+      "issue_id": 109156,
+      "issue_title": "tflite v2.20.0: poor performance of Dense layer depending on number of units",
+      "comment_count": 0,
+      "url": "https://github.com/tensorflow/tensorflow/issues/109156"
+    }
+  ]
+}

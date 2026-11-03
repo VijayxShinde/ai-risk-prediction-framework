@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+.env
+.jira_tokens.json
+*.pkl
+*.joblib
+*.csv
+*.log
+.ipynb_checkpoints/
+.vscode/
+.venv/
+.venv-vijay/
+ai_risk_prediction_framework.egg-info/
+data/auth.db
+data/curated_anomalies.csv
