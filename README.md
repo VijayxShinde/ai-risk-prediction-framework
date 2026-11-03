@@ -11,7 +11,7 @@
 An end-to-end AI system for **predicting, explaining, and mitigating project risks** from Jira-style ticket data. The framework combines supervised ML classification, time-series forecasting, unsupervised anomaly detection, NLP risk extraction, and a GenAI advisory layer — all surfaced through a Streamlit dashboard with live Jira integration.
 
 App Link: https://ai-risk-prediction-framework.streamlit.app/
-The above link shows and demonstrates the framework.
+This link shows and demonstrates the framework.
 
 ---
 
