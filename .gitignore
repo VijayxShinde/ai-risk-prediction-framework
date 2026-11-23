@@ -6,6 +6,12 @@ __pycache__/
 *.joblib
 *.csv
 *.log
+
+# Required runtime artifacts
+!models/
+!models/*.pkl
+!data/ml_ready_data.csv
+!data/real_jira_snapshot.csv
 .ipynb_checkpoints/
 .vscode/
 .venv/
