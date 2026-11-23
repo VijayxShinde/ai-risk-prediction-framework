@@ -1,6 +1,6 @@
 __pycache__/
 .pytest_cache/
-.env
+#.env
 .jira_tokens.json
 *.pkl
 *.joblib
